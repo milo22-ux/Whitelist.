@@ -34,6 +34,13 @@
             "hwid": "b46c5cfd74c07c4a392b9a2fd11e10ad3ec01d852b57a085adf67d7079d913d0",
             "expiry": "21/11/25",
             "role": "user"
+        },
+        {
+            "username": "._extort_.",
+            "key": "EA8F9380AFC39767",
+            "hwid": "ae1c7684f4a2682d7ea58a8f512f812dedf0da965027fa70c711a5fb709db67b",
+            "expiry": "24/11/25",
+            "role": "user"
         }
     ]
 }
