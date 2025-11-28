@@ -62,6 +62,13 @@
             "hwid": "93e3635055b0b38a3d3b1041904291f50cfbda24092bb6d99e10ac4218b2ec79",
             "expiry": "26/11/25",
             "role": "user"
+        },
+        {
+            "username": "exvak",
+            "key": "1622CACC0B806936",
+            "hwid": "30305601cf08af838cf9568311e88d82afd8b997104c6486d6f4618bd5df6cb4",
+            "expiry": "24/08/28",
+            "role": "user"
         }
     ]
 }
