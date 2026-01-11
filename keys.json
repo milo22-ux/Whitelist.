@@ -12,7 +12,7 @@
             "key": "2C4A84F9F0C965F6",
             "hwid": "hwid",
             "expiry": "27/10/99",
-            "role": "user"
+            "role": "blacklisted"
         }
     ]
 }
