@@ -6,69 +6,6 @@
             "hwid": "c3457096a65759b0cc8b2b1a1d899d5315bdb7248e87a347ffb8e2b692ec2117",
             "expiry": "10/08/99",
             "role": "owner"
-        },
-        {
-            "username": "._extort_.",
-            "key": "179306B505152DA0",
-            "hwid": "10971cd1-a3d0-11f0-ae2c-806e6f6e6963",
-            "expiry": "26/11/25",
-            "role": "user"
-        },
-        {
-            "username": "._extort_.",
-            "key": "2DCF4FEA31F604EB",
-            "hwid": "941917a4c7f34b73e1cae5cee9364b64a0527f22c1a439d189a26f633fcd6736",
-            "expiry": "14/10/63",
-            "role": "user"
-        },
-        {
-            "username": "._extort_.",
-            "key": "D3D4CAD301D27E10",
-            "hwid": "85a2eb4f92d6ca14e6d1235db365b569a1e654835593fc16557cda4134c64b52",
-            "expiry": "03/04/53",
-            "role": "user"
-        },
-        {
-            "username": "._extort_.",
-            "key": "705D81E1677318AF",
-            "hwid": "b46c5cfd74c07c4a392b9a2fd11e10ad3ec01d852b57a085adf67d7079d913d0",
-            "expiry": "21/11/25",
-            "role": "user"
-        },
-        {
-            "username": "._extort_.",
-            "key": "EA8F9380AFC39767",
-            "hwid": "ae1c7684f4a2682d7ea58a8f512f812dedf0da965027fa70c711a5fb709db67b",
-            "expiry": "24/11/25",
-            "role": "user"
-        },
-        {
-            "username": "._extort_.",
-            "key": "031F835CE3BCBBBE",
-            "hwid": "5d7fd7e374b5601f62e36209714166393400ca5455374e671b24c0109f7ccfad",
-            "expiry": "21/11/25",
-            "role": "user"
-        },
-        {
-            "username": "._extort_.",
-            "key": "CF0BF522DB9A57B3",
-            "hwid": "07c4c4c00e8131d7cc6818796f730031a10e0d47c54016cbc82565eb171db249",
-            "expiry": "26/11/25",
-            "role": "user"
-        },
-        {
-            "username": "._extort_.",
-            "key": "4939584E422B70F1",
-            "hwid": "93e3635055b0b38a3d3b1041904291f50cfbda24092bb6d99e10ac4218b2ec79",
-            "expiry": "26/11/25",
-            "role": "user"
-        },
-        {
-            "username": "exvak",
-            "key": "1622CACC0B806936",
-            "hwid": "30305601cf08af838cf9568311e88d82afd8b997104c6486d6f4618bd5df6cb4",
-            "expiry": "24/08/28",
-            "role": "user"
         }
     ]
 }
