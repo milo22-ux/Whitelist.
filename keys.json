@@ -6,6 +6,13 @@
             "hwid": "c3457096a65759b0cc8b2b1a1d899d5315bdb7248e87a347ffb8e2b692ec2117",
             "expiry": "10/08/99",
             "role": "owner"
+        },
+        {
+            "username": "exvak",
+            "key": "2C4A84F9F0C965F6",
+            "hwid": "hwid",
+            "expiry": "27/10/99",
+            "role": "tester"
         }
     ]
 }
