@@ -23,10 +23,10 @@
         },
         {
             "username": "exvak",
-            "key": "A729ABCDACD8987A",
+            "key": "my_key",
             "hwid": "\u00a3+(#(\u00a3+_(\u00a3(\u00a3!\u00a3(\u00a3+\u00a3+\u00a3",
             "expiry": "01/06/69",
-            "role": "user"
+            "role": "blacklisted"
         }
     ]
 }
