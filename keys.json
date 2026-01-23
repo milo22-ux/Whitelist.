@@ -27,6 +27,13 @@
             "hwid": "\u00a3+(#(\u00a3+_(\u00a3(\u00a3!\u00a3(\u00a3+\u00a3+\u00a3",
             "expiry": "01/06/69",
             "role": "blacklisted"
+        },
+        {
+            "username": "exvak",
+            "key": "2C911C671760E6C6",
+            "hwid": "none",
+            "expiry": "23/01/26",
+            "role": "user"
         }
     ]
 }
