@@ -34,6 +34,13 @@
             "hwid": "",
             "expiry": "23/01/25",
             "role": "blacklisted"
+        },
+        {
+            "username": "exvak",
+            "key": "65FCDE1EB4B5A0AC",
+            "hwid": "6fb51638cb99f269",
+            "expiry": "26/01/26",
+            "role": "user"
         }
     ]
 }
