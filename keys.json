@@ -48,6 +48,13 @@
             "hwid": "be5399c9ae51b85d277b53e2d5c3434f9cc0252c081b2e012b487779e0bf2e1f",
             "expiry": "02/02/26",
             "role": "user"
+        },
+        {
+            "username": "exvak",
+            "key": "8083903F3F6C0909",
+            "hwid": "4BF7828D4FB20D7D8FA4967C102A23",
+            "expiry": "02/02/26",
+            "role": "user"
         }
     ]
 }
